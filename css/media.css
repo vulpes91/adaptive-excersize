@@ -22,7 +22,7 @@
         font-size: 12px;
     }
 }
-
+ 
 @media (max-width: 599px) {
     .container {
         width: 320px;
